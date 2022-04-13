@@ -1,16 +1,11 @@
-### Hi there 👋
+### science
+- [X] multiscale modelling
+- [X] computational engineering
+- [X] machine learning
+- [X] complex systems
 
-<!--
-**o-q-t-o-p-i/o-q-t-o-p-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### software
+- [X] ruby gems for natural language processing
+- [X] python packages for computer vision
+- [X] c++ libraries for simulation engines
+- [X] tex markups for data visualisation
